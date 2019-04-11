@@ -1,0 +1,30 @@
+.history-search{
+    padding:20px 0px;
+    color: #4a4a4a;
+    font-size: 20px;
+    font-family: "Calibri"; 
+    & h6{
+        font-size: 20px;
+        line-height: 30px;
+        font-weight: 600;
+    }
+    & .EHU-section {
+        .EHU-vertical-line{
+            border-left: 1px solid #4a4a4a;
+        }
+        .EHU-heading-line 
+        {
+            padding-left: 10px;
+        }
+    }
+    & .search-bar {
+            padding-top: 10px;
+        .search-icon {
+            background: #ffffff
+        }
+    }  
+}
+.main-content
+{
+    margin:0px 11px;
+}

@@ -1,0 +1,116 @@
+    .greeting-user{
+        font-size: 16px;
+        color: #9bcf7e;
+        font-family: "Calibri";
+        float: right;
+        line-height: 2.5;
+       }
+       .date-head{
+        font-size: 100px;
+        color: #868686;
+        font-family: "Calibri";
+        margin-bottom: 0px;
+        line-height: 1;
+       }
+       .date-day {
+        font-size: 14px;
+        color: #868686;
+        font-family: "Calibri";
+        margin-bottom:0px ;
+       }
+       .calender ,
+       .dates-calender,
+       .seconds-dates-calender,
+       .third-dates-calender,
+       .fourth-dates-calender,
+       .fiveth-dates-calender {
+           display: inline-flex;
+           list-style: none;
+           margin-bottom: 0px
+       }
+       .calender > li {
+           padding-right: 9px;
+           font-weight: bold;
+       }
+       
+       .dates-calender > li {
+        padding-right: 22px;
+        font-weight: 400;
+       }
+       .seconds-dates-calender > li {
+        padding-right: 16px;
+        font-weight: 400;
+       }
+       .third-dates-calender > li {
+        padding-right: 13px;
+        font-weight: 400;
+       }
+       .fourth-dates-calender > li {
+        padding-right: 13px;
+        font-weight: 400;
+       }
+       .fiveth-dates-calender > li{
+        padding-right: 13px;
+        font-weight: 400;   
+       }
+       .upcoming-event
+       {
+        font-size: 14px;
+        color: #4a4a4a;
+        font-family: "Calibri";
+        font-weight: bold;
+        margin-bottom: 0px;
+        line-height: 2;
+       }
+       .pr-10
+       {
+           padding-right: 10px;
+       }
+       .pl-10{
+           padding-left: 10px;
+       }
+       .date-submision
+       {
+           margin-top: 10px;
+        font-size: 14px;
+        color: #4a4a4a;
+        font-family: "Calibri";
+        margin-bottom: 0px;
+       }
+       .date-submision-event
+       {
+        font-size: 14px;
+        color: #4a4a4a;
+        font-family: "Calibri";
+        margin-bottom: 0px;   
+       }
+       .full
+       {
+        width: 100%;
+        float: left;
+       }
+       .recent-shared{
+        font-size: 14px;
+        color: #4a4a4a;
+        font-family: "Calibri";
+        font-weight: bold;
+        padding-left: 10px;
+        line-height: 1.5;
+        margin-top: 2px;
+       }
+       .recent-shared-image{
+           width:100px;
+           height: 80px;
+           padding-left: 10px;
+       }
+       .media-recent
+       {
+           margin-top: 5px;
+           margin-bottom: 5px;
+       }
+       .recent-shared-heading{
+           padding-left: 10px;
+           font-size: 14px;
+color: #989898;
+font-family: "Calibri";
+       }
